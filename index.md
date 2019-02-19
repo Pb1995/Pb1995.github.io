@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Hi, I am Pranjal Bajaj
 
 You can use the [editor on GitHub](https://github.com/Pb1995/Pb1995.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 

@@ -1,8 +1,8 @@
 ## Hi, I am Pranjal Bajaj
 
-You can use the [editor on GitHub](https://github.com/Pb1995/Pb1995.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+I am currently pursuing MS Data Science at Columbia University. I graduated from the University of Cambridge with a First Class Degree in Economics, Law & Environment in July 2017.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+This summer, I was a fellow at the Data Science for Social Good Fellowship at the University of Chicago. My passion lies in building tools to uncover solutions in public policy, business and finance through data science and social science research. I have a deep expertise in Machine Learning, Deep Learning and Bayesian Modelling. My programming capabilities include Python, C, C++, R, SQL and Stan.
 
 ### Markdown
 
